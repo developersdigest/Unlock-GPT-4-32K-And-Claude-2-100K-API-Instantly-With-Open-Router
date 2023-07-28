@@ -1,6 +1,8 @@
 # Unlock GPT-4-32K &amp; Claude-2-100K API Instantly With Open Router
 
-# Getting Started with Rare Models like GPT-4-32k and Claude-2-100k using OpenRouter AI and Node.js
+This is from my [Youtube Video'(https://youtu.be/93QLqpfcqjA)
+
+Getting Started with Rare Models like GPT-4-32k and Claude-2-100k using OpenRouter AI and Node.js
 
 This README will guide you on how to interact with rare AI models such as GPT-4-32k and Claude-2-100k using the OpenRouter AI API in a Node.js application. Follow the steps below to create chat completions with these powerful language models.
 
